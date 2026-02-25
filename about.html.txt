@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About - Gocom ICT Solutions</title>
+</head>
+
+<body>
+    <h1>About Us</h1>
+
+    <p>
+        Gocom ICT Solutions is a Nairobi-based company located at Revlon Professional Plaza.
+        We provide reliable and affordable ICT services including computer repair,
+        networking, and software installation.
+    </p>
+
+    <a href="index.html">Back Home</a>
+</body>
+</html>

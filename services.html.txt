@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Services - Gocom ICT Solutions</title>
+</head>
+
+<body>
+
+<h1>Our Services & Prices</h1>
+
+<ul>
+    <li>Computer Repair - Ksh 3,500</li>
+    <li>Windows Installation - Ksh 1,000</li>
+    <li>Software Installation - Ksh 500</li>
+</ul>
+
+<a href="index.html">Back Home</a>
+
+</body>
+</html>
